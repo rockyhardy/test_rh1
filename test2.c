@@ -6,7 +6,16 @@ int main()
    return 0;
 }
 
+void testfunc(){
+   //exit
+}
+
 void myfunc()
 {
    //TEST
+}
+
+void myfunc2()
+{
+   //TEST2
 }
